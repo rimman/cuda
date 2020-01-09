@@ -1,1 +1,2 @@
-/usr/local/cuda-10.0/bin/nvcc
+which nvcc
+nvcc --version
